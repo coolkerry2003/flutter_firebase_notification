@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "200649344910",
+    "project_id": "agile-scheme-407803",
+    "storage_bucket": "agile-scheme-407803.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200649344910:android:1002e2979f3f33572fc6df",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATIf1H3j3byIPr2rYpA9xlzC81YXu43XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
